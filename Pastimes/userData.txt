@@ -1,0 +1,5 @@
+John Doe,john@gmail.com,john,29ef52e7563626a96cea7f4b4085c124,customer
+Mary Smith,mary@gmail.com,mary,29ef52e7563626a96cea7f4b4085c124,customer
+Peter Lee,peter@gmail.com,peter,29ef52e7563626a96cea7f4b4085c124,customer
+Anna Ray,anna@gmail.com,anna,29ef52e7563626a96cea7f4b4085c124,customer
+David King,david@gmail.com,david,29ef52e7563626a96cea7f4b4085c124,customer
