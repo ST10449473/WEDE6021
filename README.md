@@ -46,3 +46,7 @@ Seller Upload Page: Allows sellers to upload items (page 6)
 Messages Page: Enables communication (page 6)
 Admin Dashboard: Controls approval and system management (page 7# WEDE6021
 clothing store
+
+
+
+youtube video link: 
